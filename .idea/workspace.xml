@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eab69ea8-b348-4476-a6ab-e9cc00cca30f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todos/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/todos/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todos/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/todos/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569809209864</updated>
-      <workItem from="1569809212554" duration="2525000" />
+      <workItem from="1569809212554" duration="3087000" />
     </task>
     <task id="LOCAL-00001" summary="[add] gitignore">
       <created>1569809352199</created>
@@ -108,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569811468035</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="[refactor] serializers to use ModelSerializer class">
+      <created>1569811826046</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1569811826046</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +140,7 @@
     <MESSAGE value="[add] snippets config app to settings.py" />
     <MESSAGE value="after performing initial migration of todos model" />
     <MESSAGE value="[add] basic interpretation of serializer" />
-    <option name="LAST_COMMIT_MESSAGE" value="[add] basic interpretation of serializer" />
+    <MESSAGE value="[refactor] serializers to use ModelSerializer class" />
+    <option name="LAST_COMMIT_MESSAGE" value="[refactor] serializers to use ModelSerializer class" />
   </component>
 </project>
